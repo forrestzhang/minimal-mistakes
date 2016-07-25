@@ -66,7 +66,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Tao Zhang"
-  avatar           : "bio-photo.jpg"
+  avatar           : "Tao-Zhang-20152.jpg"
   bio              : "I am an amazing person."
   location         : "Madison, WI"
   email            :
@@ -93,7 +93,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-
+  google_scholar   : "fiqihP4AAAAJ&hl"
 
 # Reading Files
 include:

@@ -97,6 +97,9 @@
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fa fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
+      {% if author.google_scholar %}
+        <li><a href="https://scholar.google.com/citations?user={{ author.google_scholar }}"><i class="fa fa-fw fa-google-plus-square" aria-hidden="true"></i> GoogleScholar</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
