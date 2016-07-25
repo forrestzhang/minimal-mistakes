@@ -39,7 +39,7 @@ yandex_site_verification :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : "tao.zhang.9"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -68,7 +68,7 @@ author:
   name             : "Tao Zhang"
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "Madison, WI"
   email            :
   uri              :
   bitbucket        :
