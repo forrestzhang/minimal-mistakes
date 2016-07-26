@@ -219,7 +219,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      related: true
   # _pages
   - scope:
       path: ""
