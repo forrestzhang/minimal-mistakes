@@ -12,5 +12,6 @@ permalink: /post/
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %} -->
+  {{ page.date | date_to_string }}
   {% include archive-single.html %}
 {% endfor %}
