@@ -11,3 +11,12 @@ main:
 
   - title: "PlantDHS"
     url: http://plantdhs.org/
+
+  - title: "Post"
+    url: /post
+
+  - title: "Tags"
+    url: /tags
+
+  - title: "Categories"
+    url: /categories
