@@ -20,11 +20,11 @@ title: Publication
 
 ### 2013
 - **Zhang T**, Talbert PB, Zhang WL, Wu YF, Yang ZJ, Henikoff JG, Henikoff S, Jiang JM: The CentO satellite confers translational and rotational phasing on cenH3 nucleosomes in rice centromeres. _Proceedings of the National Academy of Sciences of the United States of America_ 2013, 110(50): E4875–E4883.
-- _Commentary:_ Heslop-Harrison, J.S. and Schwarzacher, T. Nucleosomes and centromeric DNA packaging.  _Proceedings of the National Academy of Sciences of the United States of America_ 2013, 110(50): 19974-19975.
+  - _Commentary:_ Heslop-Harrison, J.S. and Schwarzacher, T. Nucleosomes and centromeric DNA packaging.  _Proceedings of the National Academy of Sciences of the United States of America_ 2013, 110(50): 19974-19975.
 - Iovene M, **Zhang T**, Lou Q, Buell CR, Jiang JM: Copy number variation in potato - an asexually propagated autotetraploid species. _The Plant Journal_ 2013, 75(1):80-89.
 - Wei W, **Zhang T**, Lin D, Yang ZJ, Guo FB: Transcriptional abundance is not the single force driving the evolution of bacterial proteins. _BMC evolutionary biology_ 2013, 13(1):162.
-- Yang Z, **Zhang T**, Lang T, Li G, Chen G, Nevo E: Transcriptome Comparative Profiling of Barley eibi1 Mutant Reveals Pleiotropic Effects of HvABCG31 Gene on Cuticle Biogenesis and Stress Responsive Pathways. _International Journal of Molecular Sciences_ 2013, 14(10):20478-20491.
-- Dong Z, Jiang C, Chen X, **Zhang T**, Ding L, Song W, Luo H, Lai J, Chen H, Liu R: Maize LAZY1 Mediates Shoot Gravitropism and Inflorescence Development through Regulating Auxin Transport, Auxin Signaling, and Light Response. _Plant physiology_ 2013, 163(3):1306-1322.
+- Yang ZJ, **Zhang T**, Lang T, Li G, Chen G, Nevo E: Transcriptome Comparative Profiling of Barley eibi1 Mutant Reveals Pleiotropic Effects of HvABCG31 Gene on Cuticle Biogenesis and Stress Responsive Pathways. _International Journal of Molecular Sciences_ 2013, 14(10):20478-20491.
+- Dong ZB, Jiang C, Chen X, **Zhang T**, Ding L, Song W, Luo H, Lai J, Chen H, Liu R, Jin WW: Maize LAZY1 Mediates Shoot Gravitropism and Inflorescence Development through Regulating Auxin Transport, Auxin Signaling, and Light Response. _Plant physiology_ 2013, 163(3):1306-1322.
 
 ### 2012
 - Zhang WL, **Zhang T**, Wu YF, Jiang JM: Genome-Wide Identification of Regulatory DNA Elements and Protein-Binding Footprints Using Signatures of Open Chromatin in Arabidopsis. _The Plant Cell_ 2012, 24(7):2719-2731.
@@ -35,7 +35,7 @@ title: Publication
 - Tang ZX, Fu SL, Ren ZL, **Zhang T**, Zou YT, Yang ZJ, Li GR, Zhou JP, Zhang HQ, Yan BJ: Diversity and evolution of four dispersed repetitive DNA sequences in the genus Secale. _Genome_ 2011, 54(4):285-300.
 
 ### 2010
-- Li G, **Zhang T**, Wei P, Jia J, Yang ZJ: Sequence analysis of alpha-gliadin genes from Aegilops tauschii native to China. _Asian Journal of Agricultural Sciences_ 2010, 2(4):128-135.
+- Li GR, **Zhang T**, Wei P, Jia J, Yang ZJ: Sequence analysis of alpha-gliadin genes from Aegilops tauschii native to China. _Asian Journal of Agricultural Sciences_ 2010, 2(4):128-135.
 - Li GR, **Zhang T**, Ban Y, Yang ZJ: Molecular characterization and evolutionary analysis of alpha-gliadin genes from Eremopyrum bonaepartis (Triticeae). _Journal of Agricultural Science (Toronto)_ 2010, 2(4):30-36.
 
 ### 2009
