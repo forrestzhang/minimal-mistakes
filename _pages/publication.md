@@ -1,3 +1,9 @@
+---
+layout: single
+author_profile: true
+permalink: /publication/
+---
+
 ### 2016
 - **Zhang T**, Marand A, Jiang JM: PlantDHS: A Database for DNAse I Hypertensive Sites in Plants. _Nucleic Acids Research_ 2016, 44(D1): D1148-D1153
 - Marand, A, **Zhang, T**., Zhu, B., and Jiang, J.M. (2016) Towards genome-wide prediction and characterization of enhancers in plants. _BBA - Gene Regulatory Mechanisms_ doi: 10.1016/j.bbagrm.2016.06.006
