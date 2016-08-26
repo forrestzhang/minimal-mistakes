@@ -7,6 +7,7 @@ tags:
 ---
 
 Edit settings.json file
+
 ```json
 {
     "terminal.integrated.fontFamily": "Source Code Pro for Powerline"
