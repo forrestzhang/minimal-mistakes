@@ -18,4 +18,5 @@ Edit settings.json file
 
 You can choose any powerline fonts.
 
+
 ![Example]({{ site.url }}/images/posts/20160826_vscode.jpg)
