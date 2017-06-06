@@ -6,9 +6,13 @@ title: Publication
 ---
 † Equally Contributing Authors
 
+### 2017
+- Zhang R, Xue C, Liu GQ, Liu XY, Zhang ML, Wang X, Zhang T\*, and Gong ZY\*: Segmental Duplication of Chromosome 11 and its Implications for Cell Division and Genome-wide Expression in Rice. _Scientific Reports_ 2017, 1(7): 2689.
+- Tang X†, Lowder LG†, Zhang T, Maizahn AA, Zheng XL, Voytas DF, Zhong ZH, Chen YY, Ren QR, Li Q, Kirkland ER, Zhang Y, and Qi YP. A CRISPR-Cpf1 system for efficient genome editing and transcriptional repression in plants. _Nature Plants_ 2017, 3: 17018
+- Marand AP, Zhang T, Zhu B, and Jiang JM: Towards genome-wide prediction and characterization of enhancers in plants. _BBA - Gene Regulatory Mechanisms_ 2017, 1860(1): 131-139.
+
 ### 2016
 - **Zhang T**, Marand A, Jiang JM: [PlantDHS: A Database for DNAse I Hypertensive Sites in Plants.]({{ site.url }}/pdf/2016/NAR_2016.pdf) _Nucleic Acids Research_ 2016, 44(D1): D1148-D1153.
-- Marand, A, **Zhang, T**, Zhu, B, and Jiang, JM (2016) [Towards genome-wide prediction and characterization of enhancers in plants.]({{ site.url }}/pdf/2016/BBE_2016_inpress.pdf) _BBA - Gene Regulatory Mechanisms_ doi: 10.1016/j.bbagrm.2016.06.006
 
 ### 2015
 - **Zhang T**†, Zhang WL†, and Jiang JM: [Genome-wide nucleosome occupancy and positioning and their impact on gene expression and evolution in plants.]({{ sit.url }}/pdf/2015/Plant_Physiol_2015.pdf) _Plant Physiology_ 2015, 168(4): 1406-1416.
