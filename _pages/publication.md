@@ -6,6 +6,11 @@ title: Publication
 ---
 † Equally Contributing Authors
 
+### 2018
+- Zhong ZH†, Zhang YX†, You Q†, Tang X, Ren QR, Liu SS, Yang LJ, Wang Y, Liu XP, Liu BL, **Zhang T**, Zheng XL, Le Y, Zhang Y, and Qi YP. (2018) Plant genome editing using FnCpf1 and LbCpf1 nucleases at redefined and altered PAM sites. _Molecular Plant_ [doi.org/10.1016/j.molp.2018.03.008](http://www.cell.com/molecular-plant/fulltext/S1674-2052(18)30094-7)
+- Xin H†, **Zhang T**†, Han Y, Wu YF, Shi JS, Xi ML, and Jiang JM. (2018)  Chromosome painting and comparative physical mapping of the sex chromosomes in Populus tomentosa and Populus deltoides. _Chromosoma_  [doi.org/10.1007/s00412-018-0664-y](https://link.springer.com/article/10.1007/s00412-018-0664-y)
+- Braz GT†, He L†, Zhao HN†, **Zhang T**†, Semrau K, Rouillard JM, Torres GA, Jiang JM. [Comparative oligo-FISH mapping: an efficient and powerful methodology to reveal karyotypic and chromosomal evolution.](http://www.genetics.org/content/208/2/513.full.pdf) _Genetics_ 2018, 208(2), 513-523.
+
 ### 2017
 - Zhang R, Xue C, Liu GQ, Liu XY, Zhang ML, Wang X, **Zhang T\***, and Gong ZY\*: Segmental Duplication of Chromosome 11 and its Implications for Cell Division and Genome-wide Expression in Rice. _Scientific Reports_ 2017, 1(7): 2689.
 - Tang X†, Lowder LG†, **Zhang T**, Maizahn AA, Zheng XL, Voytas DF, Zhong ZH, Chen YY, Ren QR, Li Q, Kirkland ER, Zhang Y, and Qi YP. A CRISPR-Cpf1 system for efficient genome editing and transcriptional repression in plants. _Nature Plants_ 2017, 3: 17018
